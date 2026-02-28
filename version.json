@@ -3,16 +3,17 @@
   "versions": [
     {
       "version": "1.0.0",
-      "url": "https://github.com/HuseyinDMN/ISG_Guncelleme_Sistemi/releases/download/1.0.3/VidcoISG_Setup.exe",
+      "url": "https://github.com/vidcornd/isgkatipuploaderfiles/releases/download/1.0.0/VidcoISG_Setup.exe",
       "releaseDate": "2026-02-28",
       "changelog": "- Yeni özellik eklendi.\n- Hata düzeltmeleri yapıldı."
     },
     {
       "version": "1.0.1",
-      "url": "https://github.com/HuseyinDMN/ISG_Guncelleme_Sistemi/releases/download/1.0.3/VidcoISG_Setup.exe",
+      "url": "https://github.com/vidcornd/isgkatipuploaderfiles/releases/download/1.0.1/VidcoISG_Setup.exe",
       "releaseDate": "2026-02-28",
       "changelog": "- Yeni özellik eklendi.\n- Versiyon numarası 1.0.1 yapıldı.\n- Güncelleme sistemi test ediliyor"
     }
   ]
 
 }
+
