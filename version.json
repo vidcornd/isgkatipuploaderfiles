@@ -30,9 +30,16 @@
       "url": "https://github.com/vidcornd/isgkatipuploaderfiles/releases/download/1.0.4/VidcoISG_Setup.exe",
       "releaseDate": "2026-03-02",
       "changelog": "-Hata düzeltmesi: Arka planda çalışan işlemlerin kararlılığı artırıldı. Sisteme giriş yaparken zaman zaman karşılaşılan beklenmeyen bağlantı hataları giderildi.\n -Arayüz güncellendi"
+    },
+    {
+      "version": "1.0.5",
+      "url": "https://github.com/vidcornd/isgkatipuploaderfiles/releases/download/1.0.5/VidcoISG_Setup.exe",
+      "releaseDate": "2026-03-11",
+      "changelog": "-Hata düzeltmesi: İSG Katip sözleşmesindeki firma ile sistemde kayıtlı firmanın eşleştirilmesi sırasında yaşanan yanlış eşleşme hatası giderildi."
     } 
   ]
 }
+
 
 
 
