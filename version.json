@@ -35,10 +35,11 @@
       "version": "1.0.5",
       "url": "https://github.com/vidcornd/isgkatipuploaderfiles/releases/download/1.0.5/VidcoISG_Setup.exe",
       "releaseDate": "2026-03-11",
-      "changelog": "-Düzeltmeler yapılıdı"
+      "changelog": "İyileştirme: PDF belgelerindeki firma isimlerinin sistemle eşleştirilmesi süreci daha hassas hale getirildi. Artık Türkçe karakter içeren firma unvanları çok daha sorunsuz bir şekilde tanınıyor."
     } 
   ]
 }
+
 
 
 
