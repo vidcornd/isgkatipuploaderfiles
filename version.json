@@ -1,5 +1,5 @@
 {
-  "latest": "1.0.5",
+  "latest": "1.0.6",
   "versions": [
     {
       "version": "1.0.0",
@@ -36,6 +36,12 @@
       "url": "https://github.com/vidcornd/isgkatipuploaderfiles/releases/download/1.0.5/VidcoISG_Setup.exe",
       "releaseDate": "2026-03-11",
       "changelog": "İyileştirme: PDF belgelerindeki firma isimlerinin sistemle eşleştirilmesi süreci daha hassas hale getirildi. Artık Türkçe karakter içeren firma unvanları çok daha sorunsuz bir şekilde tanınıyor."
+    },
+    {
+      "version": "1.0.6",
+      "url": "https://github.com/vidcornd/isgkatipuploaderfiles/releases/download/1.0.6/VidcoISG_Setup.exe",
+      "releaseDate": "2026-03-17",
+      "changelog": "Düzenleme: ISG PDF'leri kuruluşların sistemlerine yüklenirken, firma eşleştirmesi için PDF'deki firma unvanı alanındaki bilgiler kullanılmaktaydı. Artık firma eşleştirme işlemi için İSG-Katip sözleşmelerindeki SGK bilgileri kullanılmaktadır."
     } 
   ]
 }
