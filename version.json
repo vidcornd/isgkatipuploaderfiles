@@ -50,7 +50,7 @@
       "changelog": "İyileştirme: Güncelleştirme sisteminde düzenlemeler yapıldı.\n Yeni bir güncelleme esnasında açılan küçük ekran kapatılamıyordu. Artık indirme işlemi durdurulabiliyor."
     },
     {
-      "version": "1.0.0.1 Test",
+      "version": "1.0.0.1-Test",
       "url": "https://github.com/vidcornd/isgkatipuploaderfiles/releases/download/1.0.0.1-Test/VidcoISG_Setup.exe",
       "releaseDate": "2026-03-27",
       "changelog": "Güncelleme sistemini test edebilmek için oluşturulan test versiyonu 1"
