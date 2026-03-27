@@ -42,6 +42,12 @@
       "url": "https://github.com/vidcornd/isgkatipuploaderfiles/releases/download/1.0.6/VidcoISG_Setup.exe",
       "releaseDate": "2026-03-17",
       "changelog": "Düzenleme: ISG PDF'leri kuruluşların sistemlerine yüklenirken, firma eşleştirmesi için PDF'deki firma unvanı alanındaki bilgiler kullanılmaktaydı. Artık firma eşleştirme işlemi için İSG-Katip sözleşmelerindeki SGK bilgileri kullanılmaktadır."
+    },
+    {
+      "version": "1.0.7",
+      "url": "https://github.com/vidcornd/isgkatipuploaderfiles/releases/download/1.0.7/VidcoISG_Setup.exe",
+      "releaseDate": "2026-03-27",
+      "changelog": "İyileştirme: Güncelleştirme sisteminde düzenlemeler yapıldı.\n Yeni bir güncelleme esnasında açılan küçük ekran kapatılamıyordu. Artık indirme işlemi durdurulabiliyor."
     } 
   ]
 }
