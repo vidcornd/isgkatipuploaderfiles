@@ -50,10 +50,10 @@
       "changelog": "İyileştirme: Güncelleştirme sisteminde düzenlemeler yapıldı.\n Yeni bir güncelleme esnasında açılan küçük ekran kapatılamıyordu. Artık indirme işlemi durdurulabiliyor."
     },
     {
-      "version": "1.0.0.1-Test",
-      "url": "https://github.com/vidcornd/isgkatipuploaderfiles/releases/download/1.0.0.1-Test/VidcoISG_Setup.exe",
-      "releaseDate": "2026-03-27",
-      "changelog": "Güncelleme sistemini test edebilmek için oluşturulan test versiyonu 1"
+      "version": "1.0.8",
+      "url": "https://github.com/vidcornd/isgkatipuploaderfiles/releases/download/1.0.8/VidcoISG_Setup.exe",
+      "releaseDate": "2026-03-30",
+      "changelog": "Güncelleme: Yeni tip İSG katip sözleşmeleri sisteme entegre edildi. Artık bu sözleşmeler de uygulama üzerinden yüklenebilmektedir. \n -İyileştirme: Sözleşmeler sisteme yüklenirken isg sözleşmesi esnasında hata alınırsa hata ekranında yazan hata mesajı güncellendi"
     } 
   ]
 }
