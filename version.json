@@ -1,5 +1,5 @@
 {
-  "latest": "1.0.6",
+  "latest": "1.0.8",
   "versions": [
     {
       "version": "1.0.0",
@@ -52,8 +52,8 @@
     {
       "version": "1.0.8",
       "url": "https://github.com/vidcornd/isgkatipuploaderfiles/releases/download/1.0.8/VidcoISG_Setup.exe",
-      "releaseDate": "2026-03-30",
-      "changelog": "Güncelleme: Yeni tip İSG katip sözleşmeleri sisteme entegre edildi. Artık bu sözleşmeler de uygulama üzerinden yüklenebilmektedir. \n -İyileştirme: Sözleşmeler sisteme yüklenirken isg sözleşmesi esnasında hata alınırsa hata ekranında yazan hata mesajı güncellendi"
+      "releaseDate": "2026-04-02",
+      "changelog": "Yeni tip İSG-Katip sözleşmeleri sisteme entegre edildi ve uygulama üzerinden yüklenebilir hale getirildi. \nGüncelleme sisteminde yapılan düzenlemeyle, indirme ekranındaki kapatılamama sorunu giderilerek işlemi durdurma seçeneği eklendi.\n Ayrıca sözleşme yükleme esnasında alınan hata mesajları, daha açıklayıcı olacak şekilde güncellendi."
     } 
   ]
 }
