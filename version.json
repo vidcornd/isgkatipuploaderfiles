@@ -60,6 +60,12 @@
       "url": "https://github.com/vidcornd/isgkatipuploaderfiles/releases/download/1.0.9/VidcoISG_Setup.exe",
       "releaseDate": "2026-06-01",
       "changelog": "[YENİ] Log ekranının sağ üst köşesine, log dizinini Windows Gezgini'nde otomatik açan kısayol butonu eklendi.\n[GÜNCELLEME] Sözleşme yükleme algoritmasına karakter uzunluğu doğrulaması getirildi. Sözleşme ID'si 8 karakterin altında olan kayıtlar işlem dışı bırakılarak doğrudan Log ekranına raporlanacak şekilde yapılandırıldı."
+    },
+    {
+      "version": "1.1.0",
+      "url": "https://github.com/vidcornd/isgkatipuploaderfiles/releases/download/1.1.0/VidcoISG_Setup.exe",
+      "releaseDate": "2026-07-30",
+      "changelog": "[YENİ] Yazılım ekranına 'Firma Ünvanını Güncelle' seçeneği eklendi. Bu seçenek işaretlendiğinde, ISG-KATİP sözleşmesi yüklenirken sistemde kayıtlı firma ünvanı sözleşmedeki ünvan ile otomatik olarak güncellenmektedir."
     } 
   ]
 }
