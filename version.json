@@ -75,7 +75,7 @@
     },
     {
       "version": "1.1.2",
-      "url": "https://github.com/vidcornd/isgkatipuploaderfiles/releases/download/1.1.0/VidcoISG_Setup.exe",
+      "url": "https://github.com/vidcornd/isgkatipuploaderfiles/releases/download/1.1.2/VidcoISG_Setup.exe",
       "releaseDate": "2026-11-04",
       "changelog": "[GÜNCELLEME] İSG-Katip'in yeni arayüzü ile uyumluluk sağlandı. Giriş yapma ve belge yükleme işlemleri artık yeni ekranda da çalışmaktadır. \n[YENİ] Kullanıcı adı alanına 'admin' veya 'Admin' yazılarak giriş yapılabilmesi sağlandı. \n[GÜNCELLEME] Program çalışırken Chrome penceresi artık ekranda gösterilmemekte, işlemler arka plandayapılmaktadır. \n[DÜZELTME] Bazı bilgisayarlarda tarayıcının açılmaması sorunu giderildi."
     }
