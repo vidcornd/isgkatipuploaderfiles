@@ -1,5 +1,5 @@
 {
-  "latest": "1.0.9",
+  "latest": "1.1.2",
   "versions": [
     {
       "version": "1.0.0",
@@ -77,7 +77,7 @@
       "version": "1.1.2",
       "url": "https://github.com/vidcornd/isgkatipuploaderfiles/releases/download/1.1.2/VidcoISG_Setup.exe",
       "releaseDate": "2026-11-04",
-      "changelog": "[GÜNCELLEME] İSG-Katip'in yeni arayüzü ile uyumluluk sağlandı. Giriş yapma ve belge yükleme işlemleri artık yeni ekranda da çalışmaktadır. \n[YENİ] Kullanıcı adı alanına 'admin' veya 'Admin' yazılarak giriş yapılabilmesi sağlandı. \n[GÜNCELLEME] Program çalışırken Chrome penceresi artık ekranda gösterilmemekte, işlemler arka plandayapılmaktadır. \n[DÜZELTME] Bazı bilgisayarlarda tarayıcının açılmaması sorunu giderildi."
+      "changelog": "[GÜNCELLEME] İSG-Katip'in yeni arayüzü ile uyumluluk sağlandı. Giriş yapma ve belge yükleme işlemleri artık yeni ekranda da çalışmaktadır. \n[YENİ] Kullanıcı adı alanına 'admin' veya 'Admin' yazılarak giriş yapılabilmesi sağlandı. \n[DÜZELTME] Bazı bilgisayarlarda tarayıcının açılmaması sorunu giderildi. \n[YENİ] Yazılım ekranına 'Firma Ünvanını Güncelle' seçeneği eklendi. Bu seçenek işaretlendiğinde, ISG-KATİP sözleşmesi yüklenirken sistemde kayıtlı firma ünvanı sözleşmedeki ünvan ile otomatik olarak güncellenmektedir."
     }
   ]
 }
