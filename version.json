@@ -84,6 +84,12 @@
       "url": "https://github.com/vidcornd/isgkatipuploaderfiles/releases/download/1.1.3/VidcoISG_Setup.exe",
       "releaseDate": "2026-11-06",
       "changelog": "[YENİ] Mükerrer yükleme engeli eklendi. Yükleme öncesinde sistemdeki ISG Katip sözleşmeleri kontrol edilir; aynı Sözleşme ID ile kayıtlı bir sözleşme varsa ilgili PDF tekrar yüklenmez ve işlem sonunda 'Zaten kayıtlı' olarak ayrıca listelenir. \n[YENİ] (Beta) e-Devlet ile İSG-Katip'e giriş yapılarak devam eden hizmet sözleşmelerinin PDF'leri otomatik olarak indirilebilmekte ve doğrudan yüklemeye hazır hale getirilmektedir. İndirme sırasında ilerleme çubuğu gösterilir; sisteme yüklenen PDF'ler işlem sonunda bilgisayardan otomatik olarak silinir. \n[GÜNCELLEME] e-Devlet girişinde e-Devlet şifresi, e-İmza ve mobil imza ile giriş desteklenmektedir. İnternet bankacılığı ile giriş desteklenmemektedir. \n[YENİ] Bilgisayarda Google Chrome kurulu değilse Microsoft Edge tarayıcısı ile çalışılabilmesi sağlandı. \n[DÜZELTME] Firma eşleştirmesinde, aynı SGK/DETSİS numarasıyla arama yapıldığında listedeki ilk firmanın seçilmesi sorunu giderildi; artık numarası birebir eşleşen firma seçilmektedir. \n[DÜZELTME] Güncelleme sonrasında bazı bilgisayarlarda uygulamanın açılmaması ve uygulama simgesinin görünmemesi sorunları giderildi."
+    },
+    {
+      "version": "1.1.4",
+      "url": "https://github.com/vidcornd/isgkatipuploaderfiles/releases/download/1.1.4/VidcoISG_Setup.exe",
+      "releaseDate": "2026-11-09",
+      "changelog": "[DÜZELTME] Bazı bilgisayarlarda bağlantı testi, yükleme ve e-Devlet girişi sırasında alınan 'tab crashed' (tarayıcı çökmesi) hatası için iyileştirme yapıldı. Tarayıcı çökerse otomatik olarak farklı ayarlarla yeniden başlatılır; sorun devam ederse bilgisayarda kurulu diğer tarayıcılarla (Microsoft Edge, Brave, Mozilla Firefox) devam edilir. \n[YENİ] e-Devlet'ten indirilip sisteme yüklenen sözleşme PDF'leri artık silinmez, bilgisayarda saklanır. Yüklenen sözleşmeler log klasöründeki 'yuklenen_sozlesmeler.txt' dosyasına kaydedilir ve e-Devlet'ten tekrar indirilmez. Bir sözleşmeyi yeniden indirmek için bu dosyadan ilgili satırı silmeniz yeterlidir. \n[GÜNCELLEME] Hata durumlarında destek ekibimizin sorunu daha hızlı tespit edebilmesi için log kayıtları detaylandırıldı."
     }
   ]
 }
