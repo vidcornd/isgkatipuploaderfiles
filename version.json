@@ -90,6 +90,12 @@
       "url": "https://github.com/vidcornd/isgkatipuploaderfiles/releases/download/1.1.4/VidcoISG_Setup.exe",
       "releaseDate": "2026-11-09",
       "changelog": "[DÜZELTME] Bazı bilgisayarlarda bağlantı testi, yükleme ve e-Devlet girişi sırasında alınan 'tab crashed' (tarayıcı çökmesi) hatası için iyileştirme yapıldı. Tarayıcı çökerse otomatik olarak farklı ayarlarla yeniden başlatılır; sorun devam ederse bilgisayarda kurulu diğer tarayıcılarla (Microsoft Edge, Brave, Mozilla Firefox) devam edilir. \n[YENİ] e-Devlet'ten indirilip sisteme yüklenen sözleşme PDF'leri artık silinmez, bilgisayarda saklanır. Yüklenen sözleşmeler log klasöründeki 'yuklenen_sozlesmeler.txt' dosyasına kaydedilir ve e-Devlet'ten tekrar indirilmez. Bir sözleşmeyi yeniden indirmek için bu dosyadan ilgili satırı silmeniz yeterlidir. \n[GÜNCELLEME] Hata durumlarında destek ekibimizin sorunu daha hızlı tespit edebilmesi için log kayıtları detaylandırıldı."
+    },
+    {
+      "version": "1.1.5",
+      "url": "https://github.com/vidcornd/isgkatipuploaderfiles/releases/download/1.1.5/VidcoISG_Setup.exe",
+      "releaseDate": "2026-11-12",
+      "changelog": "[DÜZELTME] Chrome çöktüğünde Microsoft Edge'e geçerken alınan 'Edge başlatılamadı' hatası giderildi. \n[DÜZELTME] Bazı bilgisayarlarda alınan 'Uygulama Denetimi ilkesi bu dosyayı engelledi' hatası için iyileştirme yapıldı. Bu durumda uygulama otomatik olarak Microsoft Edge ile devam eder. \n[İYİLEŞTİRME] Giriş sırasında yaşanan tarayıcı çökmeleri azaltıldı. \n[GÜNCELLEME] Hata durumunda sorunun sebebi log kayıtlarına daha ayrıntılı yazılır."
     }
   ]
 }
