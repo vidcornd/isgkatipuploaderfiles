@@ -102,6 +102,12 @@
       "url": "https://github.com/vidcornd/isgkatipuploaderfiles/releases/download/1.1.6/VidcoISG_Setup.exe",
       "releaseDate": "2026-11-20",
       "changelog": "[YENİ] e-Devlet ile İSG-Katip sözleşmelerini çekme özelliği beta sürecini tamamladı ve artık tüm kullanıcılara açık. Test şifresi sorulmaz. \n[İYİLEŞTİRME] Yükleme, e-Devlet indirme ve bağlantı testi sırasında alınan hatalar artık tek tek değil, işlem sonunda toplu olarak Vidco tarafına iletilir. Böylece sorunlar daha hızlı incelenebilir."
+    },
+    {
+      "version": "1.1.7",
+      "url": "https://github.com/vidcornd/isgkatipuploaderfiles/releases/download/1.1.7/VidcoISG_Setup.exe",
+      "releaseDate": "2026-11-23",
+      "changelog": "[DÜZELTME] İSG sözleşmeleri yüklenirken TC numarası yıldızlı görünen personel artık bulunuyor; eşleştirme ad soyad ve TC'nin görünen haneleriyle yapılıyor. \n[İYİLEŞTİRME] Tarayıcı açılamadığında veya yanıt vermediğinde uygulama beklemeden Microsoft Edge ile devam ediyor. \n[İYİLEŞTİRME] Tarayıcı hatalarında daha sade mesajlar gösteriliyor; antivirüs programı tarayıcıyı engelliyorsa kullanıcı adıyla bilgilendiriliyor."
     }
   ]
 }
